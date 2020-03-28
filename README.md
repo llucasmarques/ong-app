@@ -15,26 +15,26 @@ Development activities divided into stages:
    
 2. > Stage focused on the development of the Back-end and communication with the database
    >> Configuration of the mysql database;
-   >> Defined the entities and functionalities of the application;
-   >> Back-end construction;
+   >> Defined the entities and functionalities of the application;
+   >> Back-end construction;
   
 3. > Stage focused on the development of the Front-end, the creation of the React web application
    >> Created the Login pages, registration of NGOs, registration of new cases and list of cases;
-   >> Route configuration;
-   >> Connection to the API;
+   >> Route configuration;
+   >> Connection to the API;
    
 4. > Stage focuses on mobile development with React Native
    >> Creation of the React Native project;
-   >> Folder structure;
-   >> Configuration of the application's Splash Screen;
-   >> Navigation configuration;
-   >> Case page, case detail page;
-   >> Open Whatsapp and Email to contact the NGO;
-   >> Connection to the API;
+   >> Folder structure;
+   >> Configuration of the application's Splash Screen;
+   >> Navigation configuration;
+   >> Case page, case detail page;
+   >> Open Whatsapp and Email to contact the NGO;
+   >> Connection to the API;
    
 5. > Final step
    >> Added some validations;
-   >> Conducting some tests;
+   >> Conducting some tests;
    
    
 ---------------------------------------------------------------------------------------------------------------------------------------
