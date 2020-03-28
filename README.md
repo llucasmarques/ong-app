@@ -10,25 +10,21 @@ The idea of this application is to create an environment where an NGO can regist
 Development activities divided into stages:
 
 1. > Initial stage of package configurations, etc ...
-
-   >> Creation of the project in Node.js;
-   >> Creation of the project in reactJS;
+   >> Creation of the project in Node.js;
+   >> Creation of the project in reactJS;
    
 2. > Stage focused on the development of the Back-end and communication with the database
-
-   >> Configuration of the mysql database;
+   >> Configuration of the mysql database;
    >> Defined the entities and functionalities of the application;
    >> Back-end construction;
-   
+  
 3. > Stage focused on the development of the Front-end, the creation of the React web application
-
-   >> Created the Login pages, registration of NGOs, registration of new cases and list of cases;
+   >> Created the Login pages, registration of NGOs, registration of new cases and list of cases;
    >> Route configuration;
    >> Connection to the API;
    
 4. > Stage focuses on mobile development with React Native
-
-   >> Creation of the React Native project;
+   >> Creation of the React Native project;
    >> Folder structure;
    >> Configuration of the application's Splash Screen;
    >> Navigation configuration;
@@ -37,8 +33,7 @@ Development activities divided into stages:
    >> Connection to the API;
    
 5. > Final step
-
-   >> Added some validations;
+   >> Added some validations;
    >> Conducting some tests;
    
    
