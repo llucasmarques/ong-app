@@ -12,28 +12,28 @@ diretamente com a ONG para ajudar a solucionar o problema.
 Atividades feitas no desenvolvimento divida em etapas:
 
 1. >Etapa inicial de configurações de pacotes, etc...
-   >>Criação do projeto em Node.js
-   >>Criação do projeto em reactJS
+   >>Criação do projeto em Node.js;
+   >>Criação do projeto em reactJS;
    
 2. >Etapa focada no desenvolvimento do Back-end e a comunicação com o banco de dados
-   >>Configuração do banco de dados mysql
-   >>Definido as entidades e funcionalidades da aplicação
-   >>Construção do back-end
+   >>Configuração do banco de dados mysql;
+   >>Definido as entidades e funcionalidades da aplicação;
+   >>Construção do back-end;
    
 3. >Etapa focada no desenvolvimento do Front-end, a criação da aplicação web em React
-   >>Criado as páginas de Login, cadastro de ONGs, cadastro de novos casos e de listagem de casos
-   >>Configuração das rotas
-   >>Conexão com a API
+   >>Criado as páginas de Login, cadastro de ONGs, cadastro de novos casos e de listagem de casos;
+   >>Configuração das rotas;
+   >>Conexão com a API;
    
 4. >Etapa foca no desenvolvimento mobile com React Native
-   >>Criação do projeto React Native
-   >>Estrutura de pastas
-   >>Configuração da Splash Screen da aplicação
-   >>Configuração da navegação
-   >>Página de casos, página de detalhe do caso
-   >>Abrir o Whatsapp e o Email para contato com a ONG
-   >>Conexão com a API
+   >>Criação do projeto React Native;
+   >>Estrutura de pastas;
+   >>Configuração da Splash Screen da aplicação;
+   >>Configuração da navegação;
+   >>Página de casos, página de detalhe do caso;
+   >>Abrir o Whatsapp e o Email para contato com a ONG;
+   >>Conexão com a API;
    
 5. >Etapa final
-   >>Adicionado algumas validações
-   >>Realização de alguns testes
+   >>Adicionado algumas validações;
+   >>Realização de alguns testes;
